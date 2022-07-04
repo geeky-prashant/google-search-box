@@ -1,7 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/google-search-box)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/google-search-boxo)
+  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/google-search-box)
   ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/google-search-box?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)](https://twitter.com/intent/follow?screen_name=geekyprashant)
  
